@@ -1002,7 +1002,7 @@ header .social-links ul li a:focus {
 	left: 0;
 	height: 100% !important;
 	width: 100% !important;
-	opacity: .12;
+	opacity: 1;
 }
 #home.home-particles .shadow-overlay {
 	display: none;
